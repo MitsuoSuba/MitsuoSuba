@@ -16,7 +16,7 @@
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MitsuoSuba&theme=dark)
 
 ### Let's Connect:
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram)](telegram.me.ImMitsuoSuwa)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram)](https://telegram.dog/ImMitsuoSuwa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kunal-gaikwad-5731712b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 </div>
