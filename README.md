@@ -1,7 +1,22 @@
-## Thanks For Visiting My GitHub Profile!
-<p align="center">
-  <img src="https://profile-counter.glitch.me/MitsuoSuba/count.svg" alt="Visitor Count">
-</p>
-<p align="">
-  <img src="https://camo.githubusercontent.com/c069a1e678dad7e96c512633dbea845302c373df7fb83726a7fd125fb1588df1/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f636f64696e672d667265616b2e676966" alt="program">
-</p>
+<div align="center">
+
+## Welcome to My Profile! 🚀
+![Visitor Count](https://profile-counter.glitch.me/MitsuoSuba/count.svg)
+
+### Languages I Use Most:
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=flat-square&logo=javascript&logoColor=white&link=your-js-profile)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=flat-square&logo=python&logoColor=white&link=your-py-profile)
+![HTML](https://img.shields.io/badge/HTML5-Intermediate-orange?style=flat-square&logo=html5&logoColor=white&link=your-html-profile)
+![CSS](https://img.shields.io/badge/CSS3-Intermediate-blueviolet?style=flat-square&logo=css3&logoColor=white&link=your-css-profile)
+
+### Most Languages I Use:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MitsuoSuba&layout=compact&theme=radical)
+
+### My Coding Arsenal:
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MitsuoSuba&theme=dark)
+
+### Let's Connect:
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram)](telegram.me.ImMitsuoSuwa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kunal-gaikwad-5731712b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+</div>
